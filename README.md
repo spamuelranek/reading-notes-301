@@ -13,3 +13,9 @@ Reading notes for 301
 2. [State and Props](reading-02.md)
 - React Life Cycle
 - Props vs States
+
+3. [Passing Functions as Props](reading-03.md)
+-[Assignment Page](https://canvas.instructure.com/courses/3610660/discussion_topics/12801142?module_item_id=54920530)
+- React Docs
+- Spread Operator
+- How to Pass Functions Between Components
