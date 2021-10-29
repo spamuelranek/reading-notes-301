@@ -39,3 +39,6 @@
 - it returns a simple function where `m` is given to the function and checks if `m` is greater than the argument `n`. It is a case where f(n) is encapsulated in f(m). When f(m) is executed it uses f(n) where n is already defined and compares m to it.
 3. Explain how either map or reduce operates, with regards to higher-order functions.
 - map does not require a function but it can take one in as an argument in order to transfor an element with in the array the map is iterating over. It applies the function to the element to create a different but related element in the new array.
+
+## Things I want to know more about:
+- What is the difference between a higher-order function and a callback function? In the last example it seemed to be the same thing. With a small search online came back with them being similar but different in somewheres
