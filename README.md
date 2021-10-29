@@ -5,7 +5,6 @@ Reading notes for 301
 ### Starting Oct 25, 2021
 
 1. [Intro to React and Components](reading-01.md)
-
 - [Assignment Page](https://canvas.instructure.com/courses/3610660/discussion_topics/12801141?module_item_id=54920520)
 - Component-Based Architecture
 - Props and relation to React
@@ -24,3 +23,7 @@ Reading notes for 301
 - [Assignment Page](https://canvas.instructure.com/courses/3610660/discussion_topics/12801139?module_item_id=54920536)
 - Forms
 - Conditional (Ternary) Operator
+
+5. [Putting it all Together](reading-05.md)
+- Thinking in React
+- High-Order Functions
