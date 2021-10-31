@@ -27,3 +27,7 @@ Reading notes for 301
 5. [Putting it all Together](reading-05.md)
 - Thinking in React
 - High-Order Functions
+
+6. [Node and Pair Programming](reading-06.md)
+- Node.js
+- Pair Programming
