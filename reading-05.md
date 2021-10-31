@@ -42,3 +42,5 @@
 
 ## Things I want to know more about:
 - What is the difference between a higher-order function and a callback function? In the last example it seemed to be the same thing. With a small search online came back with them being similar but different in somewheres
+
+[Return Home](README.md)
