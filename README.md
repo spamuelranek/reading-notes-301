@@ -32,7 +32,7 @@ Reading notes for 301
 - Node.js
 - Pair Programming
 
-7. [REST](reading-7.m)
+7. [REST](reading-07.md)
 - Google's perfet team
 - Rest
 - Api Keys
