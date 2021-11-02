@@ -31,3 +31,8 @@ Reading notes for 301
 6. [Node and Pair Programming](reading-06.md)
 - Node.js
 - Pair Programming
+
+7. [REST](reading-7.m)
+- Google's perfet team
+- Rest
+- Api Keys
