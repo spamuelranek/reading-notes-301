@@ -36,3 +36,7 @@ Reading notes for 301
 - Google's perfet team
 - Rest
 - Api Keys
+
+8. [API Best Practices](reading-08.md)
+- REST
+- Regex
