@@ -40,3 +40,7 @@ Reading notes for 301
 8. [API Best Practices](reading-08.md)
 - REST
 - Regex
+
+10. [In Memory Storage](reading-10.md)
+- JavaScript Call Stack
+- JavaScript Error Messages
