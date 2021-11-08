@@ -44,3 +44,7 @@ Reading notes for 301
 10. [In Memory Storage](reading-10.md)
 - JavaScript Call Stack
 - JavaScript Error Messages
+
+11. [Mongo and Mongoose](reading-11.md)
+- NoSQL vs SQL
+-
