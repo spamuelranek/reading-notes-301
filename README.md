@@ -47,4 +47,7 @@ Reading notes for 301
 
 11. [Mongo and Mongoose](reading-11.md)
 - NoSQL vs SQL
--
+
+12. [CRUD](reading-12.md)
+- Status Codes
+- Build A REST API with Node.js, Express, & MongoDB
