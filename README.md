@@ -51,3 +51,12 @@ Reading notes for 301
 12. [CRUD](reading-12.md)
 - Status Codes
 - Build A REST API with Node.js, Express, & MongoDB
+
+13. [Diversity and Inclusion](reading-13.md)
+- When women stopped coding
+- Employee breakdown
+- Why diversity matters
+
+14. [Authentication](reading-14.md)
+- Oauth
+- Authorization and Authentication
