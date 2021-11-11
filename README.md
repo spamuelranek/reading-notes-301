@@ -56,3 +56,7 @@ Reading notes for 301
 - When women stopped coding
 - Employee breakdown
 - Why diversity matters
+
+14. [Authentication](reading-14.md)
+- Oauth
+- Authorization and Authentication
